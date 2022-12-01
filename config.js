@@ -28,7 +28,7 @@ const CONFIG = {
 	// Weather
 	weatherKey: '6f4444536fc0c5defe3906712d4fb26d', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
+	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
@@ -161,11 +161,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'CozyMix 1',
+					name: 'CozyMix I',
 					link: 'https://youtu.be/__vGDrXN3VQ',
 				},
 				{
-					name: 'CozyMix 2',
+					name: 'CozyMix II',
 					link: 'https://youtu.be/4hBhArKJ43U',
 				},
 				{
