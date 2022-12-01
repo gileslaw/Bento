@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://www.youtube.com',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'folder',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Anime',
+					link: 'https://9anime.to/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pirate',
+					link: 'https://nyaa.si/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Wallpapers',
+					link: 'https://wallhaven.cc/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pixiv',
+					link: 'https://www.pixiv.net/en/',
 				},
 			],
 		},
