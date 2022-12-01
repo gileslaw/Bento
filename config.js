@@ -162,11 +162,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'CozyMix I',
-					link: 'https://youtu.be/__vGDrXN3VQ',
+					link: 'https://youtu.be/__vGDrXN3VQ=0s',
 				},
 				{
 					name: 'CozyMix II',
-					link: 'https://youtu.be/4hBhArKJ43U',
+					link: 'https://youtu.be/4hBhArKJ43U=0s',
 				},
 				{
 					name: 'Trello',
