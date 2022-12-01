@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/home',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'reddit',
-			link: 'https://reddit.com',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/home',
 		},
 		{
 			id: '6',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Anime',
-					link: 'https://9anime.to/',
-				},
-				{
-					name: 'Pirate',
-					link: 'https://nyaa.si/',
-				},
-				{
 					name: 'Wallpapers',
 					link: 'https://wallhaven.cc/',
 				},
 				{
 					name: 'Pixiv',
 					link: 'https://www.pixiv.net/en/',
+				},
+				{
+					name: 'Pirate',
+					link: 'https://nyaa.si/',
+				},
+				{
+					name: 'Speedtest',
+					link: 'https://fast.com/',
 				},
 			],
 		},
@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'CozyMix 1',
+					link: 'https://youtu.be/__vGDrXN3VQ',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'CozyMix 2',
+					link: 'https://youtu.be/4hBhArKJ43U',
 				},
 				{
 					name: 'Trello',
