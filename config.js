@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'YouTube',
-			icon: 'github',
+			icon: 'youtube',
 			link: 'https://www.youtube.com',
 		},
 		{
@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Gmail',
-			icon: 'gmail',
+			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
