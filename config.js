@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Wallpapers',
-					link: 'https://wallhaven.cc/',
+					name: 'Panel',
+					link: 'https://panel.infinity117.net/,
 				},
 				{
-					name: 'Pixiv',
-					link: 'https://www.pixiv.net/en/',
+					name: 'Cloudflare',
+					link: 'https://dash.cloudflare.com/b64a98ed7c8c3cd66e00ff46308d52c7,
 				},
 				{
 					name: 'Pirate',
@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'CozyMix I',
-					link: 'https://youtu.be/__vGDrXN3VQ?t=0',
+					name: 'Wallpapers',
+					link: 'https://wallhaven.cc/',
 				},
 				{
-					name: 'CozyMix II',
-					link: 'https://youtu.be/4hBhArKJ43U?t=0',
+					name: 'Pirate',
+					link: 'https://nyaa.si/',
 				},
 				{
 					name: 'Trello',
