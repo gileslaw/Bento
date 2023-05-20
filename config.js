@@ -140,11 +140,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Panel',
-					link: 'https://panel.infinity117.net/,
+					link: 'https://panel.infinity117.net/',
 				},
 				{
 					name: 'Cloudflare',
-					link: 'https://dash.cloudflare.com/b64a98ed7c8c3cd66e00ff46308d52c7,
+					link: 'https://dash.cloudflare.com/b64a98ed7c8c3cd66e00ff46308d52c7',
 				},
 				{
 					name: 'Pirate',
