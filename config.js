@@ -147,12 +147,12 @@ const CONFIG = {
 					link: 'https://dash.cloudflare.com/b64a98ed7c8c3cd66e00ff46308d52c7',
 				},
 				{
-					name: 'Pirate',
-					link: 'https://nyaa.si/',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com/',
 				},
 				{
 					name: 'Speedtest',
-					link: 'https://fast.com/',
+					link: 'https://www.speedtest.net/',
 				},
 			],
 		},
