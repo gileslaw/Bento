@@ -143,12 +143,12 @@ const CONFIG = {
 					link: 'https://panel.infinity117.net/',
 				},
 				{
-					name: 'Cloudflare',
-					link: 'https://dash.cloudflare.com/b64a98ed7c8c3cd66e00ff46308d52c7',
+					name: 'Unraid',
+					link: 'http://infinityunraid/Main',
 				},
 				{
-					name: 'ChatGPT',
-					link: 'https://chat.openai.com/',
+					name: 'Cloudflare',
+					link: 'https://dash.cloudflare.com/b64a98ed7c8c3cd66e00ff46308d52c7',
 				},
 				{
 					name: 'Speedtest',
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://nyaa.si/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com/',
 				},
 				{
 					name: 'Slack',
