@@ -139,16 +139,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Dashboard',
+					link: 'https://home.infinity117.net/',
+				},
+				{
 					name: 'Panel',
 					link: 'https://panel.infinity117.net/',
 				},
 				{
-					name: 'Unraid',
-					link: 'http://infinityunraid/Main',
-				},
-				{
 					name: 'Cloudflare',
-					link: 'https://dash.cloudflare.com/b64a98ed7c8c3cd66e00ff46308d52c7',
+					link: 'https://dash.cloudflare.com/',
 				},
 				{
 					name: 'Speedtest',
