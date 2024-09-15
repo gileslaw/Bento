@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Wallpapers',
-					link: 'https://wallhaven.cc/',
-				},
-				{
-					name: 'Pirate',
-					link: 'https://nyaa.si/',
+					name: 'Proxmox',
+					link: 'https://192.168.12.30:8006/#v1:0:18:4:::::::',
 				},
 				{
 					name: 'ChatGPT',
 					link: 'https://chat.openai.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Wallpapers',
+					link: 'https://wallhaven.cc/',
+				},
+				{
+					name: 'Nyaa',
+					link: 'https://nyaa.si/',
 				},
 			],
 		},
