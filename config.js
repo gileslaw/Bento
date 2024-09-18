@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Proxmox',
-					link: 'https://192.168.12.30:8006/#v1:0:18:4:::::::',
+					link: 'https://192.168.12.10:8006/,
 				},
 				{
 					name: 'ChatGPT',
