@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Proxmox',
-					link: 'https://192.168.12.10:8006/',
+					name: 'CasaOS',
+					link: 'http://192.168.12.200/',
 				},
 				{
 					name: 'ChatGPT',
